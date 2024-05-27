@@ -1,0 +1,7 @@
+/home/ubuntu_admin/formalki2/CMakeFiles/dfa2re.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/edit_cache.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/rebuild_cache.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/list_install_components.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/install.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/install/local.dir
+/home/ubuntu_admin/formalki2/CMakeFiles/install/strip.dir
